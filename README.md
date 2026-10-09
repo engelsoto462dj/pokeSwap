@@ -351,3 +351,4 @@ Referencia: [React y Vite en Cloudflare Workers](https://developers.cloudflare.c
 ### Nota sobre herramientas locales
 
 En esta máquina, la precarga de Console Lens mediante `NODE_OPTIONS` truncó el HTML servido por `preview`. La comprobación pasó al iniciar temporalmente con `env -u NODE_OPTIONS npm run preview`; no se modificó la configuración global. Este diagnóstico es específico de esa precarga local y no afecta al despliegue HTTPS.
+# pokeSwap
